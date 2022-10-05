@@ -1,5 +1,6 @@
 {
   "name": "demo-redux-query",
+  "homepage": "https://github.com/joe-watson-sbf/react-print-component-pdf",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
