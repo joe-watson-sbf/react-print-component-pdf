@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/print-pdf/static/css/main.cdd38271.css",
-    "main.js": "/print-pdf/static/js/main.332894d7.js",
-    "static/js/787.2f875263.chunk.js": "/print-pdf/static/js/787.2f875263.chunk.js",
-    "index.html": "/print-pdf/index.html",
-    "main.cdd38271.css.map": "/print-pdf/static/css/main.cdd38271.css.map",
-    "main.332894d7.js.map": "/print-pdf/static/js/main.332894d7.js.map",
-    "787.2f875263.chunk.js.map": "/print-pdf/static/js/787.2f875263.chunk.js.map"
+    "main.css": "/react-print-component-pdf/static/css/main.cdd38271.css",
+    "main.js": "/react-print-component-pdf/static/js/main.f2fc77ea.js",
+    "static/js/787.2f875263.chunk.js": "/react-print-component-pdf/static/js/787.2f875263.chunk.js",
+    "index.html": "/react-print-component-pdf/index.html",
+    "main.cdd38271.css.map": "/react-print-component-pdf/static/css/main.cdd38271.css.map",
+    "main.f2fc77ea.js.map": "/react-print-component-pdf/static/js/main.f2fc77ea.js.map",
+    "787.2f875263.chunk.js.map": "/react-print-component-pdf/static/js/787.2f875263.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cdd38271.css",
-    "static/js/main.332894d7.js"
+    "static/js/main.f2fc77ea.js"
   ]
 }
