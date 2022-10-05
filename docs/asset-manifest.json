@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/joe-watson-sbf/react-print-component-pdf/static/css/main.cdd38271.css",
-    "main.js": "/joe-watson-sbf/react-print-component-pdf/static/js/main.27b94106.js",
-    "static/js/787.2f875263.chunk.js": "/joe-watson-sbf/react-print-component-pdf/static/js/787.2f875263.chunk.js",
-    "index.html": "/joe-watson-sbf/react-print-component-pdf/index.html",
-    "main.cdd38271.css.map": "/joe-watson-sbf/react-print-component-pdf/static/css/main.cdd38271.css.map",
-    "main.27b94106.js.map": "/joe-watson-sbf/react-print-component-pdf/static/js/main.27b94106.js.map",
-    "787.2f875263.chunk.js.map": "/joe-watson-sbf/react-print-component-pdf/static/js/787.2f875263.chunk.js.map"
+    "main.css": "/print-pdf/static/css/main.cdd38271.css",
+    "main.js": "/print-pdf/static/js/main.332894d7.js",
+    "static/js/787.2f875263.chunk.js": "/print-pdf/static/js/787.2f875263.chunk.js",
+    "index.html": "/print-pdf/index.html",
+    "main.cdd38271.css.map": "/print-pdf/static/css/main.cdd38271.css.map",
+    "main.332894d7.js.map": "/print-pdf/static/js/main.332894d7.js.map",
+    "787.2f875263.chunk.js.map": "/print-pdf/static/js/787.2f875263.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cdd38271.css",
-    "static/js/main.27b94106.js"
+    "static/js/main.332894d7.js"
   ]
 }
