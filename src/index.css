@@ -11,3 +11,34 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.print{
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+.print button{
+  background-color: #203650;
+  color: aliceblue;
+  border: none;
+  padding: 1rem;
+  font-size: 1rem;
+  text-transform: uppercase;
+}
+
+.print button:hover{
+  background-color: #0099a1;
+}
+
+.print .ctp h1, h3{
+  font-weight: 300;
+}
+
+.print .en-tete {
+  background-color: #203650;
+  padding: 1rem;
+  color: aliceblue;
+}
+.print .en-tete h2{
+  margin-top: .3rem;
+}
